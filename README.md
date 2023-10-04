@@ -1,14 +1,8 @@
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/your_profile">
+<a href="https://vk.com/masha_sokolova0">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
-<a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your_profile">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/your_profile">
+<a href="https://t.me/marisklva">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/your_profile">
@@ -17,7 +11,7 @@
 
 <br />
 
-Привет, меня зовут Маша, я студентка. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Привет, меня зовут Маша, сейчас я ищу себя и сферу, в которой мне интересно зарабатывать). Сейчас я работаю в научном центре и делаю очень многосторонние задачи, начиная от написания ГОСТа, заканчивая моделированием фаньома.
 
 <br />
 
